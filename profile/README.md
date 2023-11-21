@@ -30,7 +30,7 @@ Join our discussion on [Discord]() (COMING SOON) to connect with fellow members,
 
 ## Contributors
 
-A big thank you to all the contributors who have helped make BuzzVerse what it is today. Check out the [list of contributors](CONTRIBUTORS.md) to see who has contributed to our projects.
+A big thank you to all the contributors who have helped make BuzzVerse what it is today. Check out the [list of contributors](profile/CONTRIBUTORS.md) to see who has contributed to our projects.
 
 ## Contact
 
