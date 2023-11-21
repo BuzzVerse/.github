@@ -32,6 +32,10 @@ Join our discussion on [Discord]() (COMING SOON) to connect with fellow members,
 
 A big thank you to all the contributors who have helped make BuzzVerse what it is today. Check out the [list of contributors](profile/CONTRIBUTORS.md) to see who has contributed to our projects.
 
+<!-- ## Code of Conduct
+
+To ensure a positive and inclusive environment, we have a [Code of Conduct](CODE_OF_CONDUCT.md) that all members are expected to adhere to. -->
+
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to us at [olafbykowski1@gmail.com](mailto:olafbykowski1@gmail.com).
