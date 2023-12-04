@@ -38,6 +38,6 @@ To ensure a positive and inclusive environment, we have a [Code of Conduct](CODE
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to us at [olafbykowski1@gmail.com](mailto:olafbykowski1@gmail.com).
+If you have any questions or suggestions, feel free to reach out to us at [contact@buzzverse.dev](mailto:contact@buzzverse.dev).
 
 Let's embark on this scientific journey together and make BuzzVerse a hub of curiosity, discovery, and innovation! 🚀🔬
