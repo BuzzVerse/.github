@@ -44,4 +44,8 @@ Let's embark on this scientific journey together and make BuzzVerse a hub of cur
 
 ## Links
 
-https://grafana.buzzverse.dev/
+<p align="left">
+<a href="https://linkedin.com/company/buzzverse-uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buzzverse-uz" height="30" width="40" /></a>
+<a href="https://fb.com/buzzverse.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="buzzverse.uz" height="30" width="40" /></a>
+<a href="https://instagram.com/buzzverse.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buzzverse.uz" height="30" width="40" /></a>
+</p>
